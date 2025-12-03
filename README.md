@@ -47,10 +47,6 @@ A modern and responsive personal portfolio showcasing my skills, projects, and a
 ### ✅ [Task Manager App](https://github.com/shashikanth-ui/Task-Manager)
 A full-stack productivity app built using **React, Node.js, and PostgreSQL**. Includes authentication, task categorization, and real-time updates.
 
-### 🧠 [Virtual Medicinal Garden – VR Project](https://github.com/shashikanth-ui)
-A VR-based immersive experience built with **Unreal Engine 5**, featuring interactive 3D environments and educational elements.
-
-
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=shashikanth-ui&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=shashikanth-ui&theme=dark&hide_border=false)<br/>
